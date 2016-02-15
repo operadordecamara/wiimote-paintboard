@@ -1,0 +1,1 @@
+Wiimote Paintboard extends Wiimote Whitebaord both by adding support for additional Wiimote functionality as well as providing a GUI that allows for painting/typing documents.  This system provides options for saving and loading these documents.
